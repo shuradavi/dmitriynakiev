@@ -1,0 +1,1025 @@
+2026-01-30 19:52:33,663 - __main__ - INFO - ✅ База данных инициализирована
+2026-01-30 19:52:33,663 - __main__ - INFO - ✅ Бот запущен и ожидает сообщений...
+2026-01-30 19:52:34,334 - aiogram.dispatcher - INFO - Start polling
+2026-01-30 19:52:34,433 - aiogram.dispatcher - INFO - Run polling for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-01-30 19:52:38,667 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-30 19:52:38,668 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8541102393)
+2026-01-30 19:52:43,980 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-30 19:52:43,980 - aiogram.dispatcher - WARNING - Sleep for 1.323458 seconds and try again... (tryings = 1, bot id = 8541102393)
+2026-01-30 19:52:49,504 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-30 19:52:49,504 - aiogram.dispatcher - WARNING - Sleep for 1.715608 seconds and try again... (tryings = 2, bot id = 8541102393)
+2026-01-30 19:52:55,454 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2026-01-30 19:52:55,455 - aiogram.dispatcher - WARNING - Sleep for 2.164087 seconds and try again... (tryings = 3, bot id = 8541102393)
+2026-01-30 19:52:56,121 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-01-30 19:52:56,122 - aiogram.dispatcher - INFO - Polling stopped for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-01-30 19:52:56,122 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-30 19:53:00,014 - __main__ - INFO - ✅ База данных инициализирована
+2026-01-30 19:53:00,015 - __main__ - INFO - ✅ Бот запущен и ожидает сообщений...
+2026-01-30 19:53:00,612 - aiogram.dispatcher - INFO - Start polling
+2026-01-30 19:53:00,713 - aiogram.dispatcher - INFO - Run polling for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-01-30 19:53:04,583 - __main__ - INFO - Новый пользователь: User(id=349017530, username=Vodimiy95)
+2026-01-30 19:53:05,012 - aiogram.event - INFO - Update id=126318476 is handled. Duration 453 ms by bot id=8541102393
+2026-01-30 19:53:09,595 - aiogram.event - INFO - Update id=126318477 is handled. Duration 115 ms by bot id=8541102393
+2026-01-30 19:53:13,705 - aiogram.event - INFO - Update id=126318478 is handled. Duration 212 ms by bot id=8541102393
+2026-01-30 19:53:22,862 - aiogram.event - INFO - Update id=126318479 is handled. Duration 174 ms by bot id=8541102393
+2026-01-30 19:53:28,634 - __main__ - ERROR - Ошибка: Telegram server says - Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 106
+2026-01-30 19:53:28,763 - aiogram.event - INFO - Update id=126318480 is handled. Duration 242 ms by bot id=8541102393
+2026-01-30 19:53:49,395 - aiogram.event - INFO - Update id=126318481 is handled. Duration 162 ms by bot id=8541102393
+2026-01-30 19:53:58,159 - aiogram.event - INFO - Update id=126318482 is handled. Duration 123 ms by bot id=8541102393
+2026-01-30 19:54:02,389 - aiogram.event - INFO - Update id=126318483 is handled. Duration 227 ms by bot id=8541102393
+2026-01-30 19:54:07,784 - aiogram.event - INFO - Update id=126318484 is handled. Duration 135 ms by bot id=8541102393
+2026-01-30 19:54:10,822 - aiogram.event - INFO - Update id=126318485 is handled. Duration 123 ms by bot id=8541102393
+2026-01-30 19:54:14,983 - aiogram.event - INFO - Update id=126318486 is handled. Duration 166 ms by bot id=8541102393
+2026-01-30 19:54:27,099 - aiogram.event - INFO - Update id=126318487 is handled. Duration 122 ms by bot id=8541102393
+2026-01-30 19:54:31,002 - aiogram.event - INFO - Update id=126318488 is handled. Duration 135 ms by bot id=8541102393
+2026-01-30 19:54:38,556 - aiogram.event - INFO - Update id=126318489 is handled. Duration 131 ms by bot id=8541102393
+2026-01-30 19:54:40,822 - aiogram.event - INFO - Update id=126318490 is handled. Duration 309 ms by bot id=8541102393
+2026-01-30 19:55:05,345 - aiogram.event - INFO - Update id=126318491 is handled. Duration 171 ms by bot id=8541102393
+2026-01-30 19:55:08,574 - aiogram.event - INFO - Update id=126318492 is handled. Duration 123 ms by bot id=8541102393
+2026-01-30 19:55:12,006 - aiogram.event - INFO - Update id=126318493 is handled. Duration 114 ms by bot id=8541102393
+2026-01-30 19:55:18,153 - aiogram.event - INFO - Update id=126318494 is handled. Duration 137 ms by bot id=8541102393
+2026-01-30 19:56:11,430 - aiogram.event - INFO - Update id=126318495 is handled. Duration 200 ms by bot id=8541102393
+2026-01-30 20:04:14,510 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-01-30 20:04:14,512 - aiogram.dispatcher - INFO - Polling stopped for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-01-30 20:04:14,512 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-30 22:06:56,316 - aiogram.dispatcher - INFO - Start polling
+2026-01-30 22:06:56,418 - aiogram.dispatcher - INFO - Run polling for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-01-30 22:07:24,690 - aiogram.event - INFO - Update id=126318727 is handled. Duration 440 ms by bot id=8541102393
+2026-01-30 22:07:27,504 - aiogram.event - INFO - Update id=126318728 is handled. Duration 166 ms by bot id=8541102393
+2026-01-30 22:07:33,315 - aiogram.event - INFO - Update id=126318729 is handled. Duration 144 ms by bot id=8541102393
+2026-01-30 22:07:35,916 - aiogram.event - INFO - Update id=126318730 is handled. Duration 166 ms by bot id=8541102393
+2026-01-30 22:07:40,684 - aiogram.event - INFO - Update id=126318731 is handled. Duration 215 ms by bot id=8541102393
+2026-01-30 22:08:02,118 - aiogram.event - INFO - Update id=126318732 is handled. Duration 134 ms by bot id=8541102393
+2026-01-30 22:08:07,082 - aiogram.event - INFO - Update id=126318733 is handled. Duration 274 ms by bot id=8541102393
+2026-01-30 22:08:19,186 - aiogram.event - INFO - Update id=126318734 is handled. Duration 367 ms by bot id=8541102393
+2026-01-30 22:08:21,515 - aiogram.event - INFO - Update id=126318735 is handled. Duration 184 ms by bot id=8541102393
+2026-01-30 22:08:46,051 - aiogram.event - INFO - Update id=126318736 is handled. Duration 160 ms by bot id=8541102393
+2026-01-30 22:09:14,066 - aiogram.event - INFO - Update id=126318737 is handled. Duration 170 ms by bot id=8541102393
+2026-01-30 22:09:17,108 - aiogram.event - INFO - Update id=126318738 is handled. Duration 254 ms by bot id=8541102393
+2026-01-30 22:09:19,679 - aiogram.event - INFO - Update id=126318739 is handled. Duration 250 ms by bot id=8541102393
+2026-01-30 22:09:32,905 - aiogram.event - INFO - Update id=126318740 is handled. Duration 320 ms by bot id=8541102393
+2026-01-30 22:24:53,456 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-01-30 22:24:53,461 - aiogram.dispatcher - INFO - Polling stopped for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-01-30 22:24:53,461 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-30 22:25:02,885 - aiogram.dispatcher - INFO - Start polling
+2026-01-30 22:25:02,985 - aiogram.dispatcher - INFO - Run polling for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-01-30 22:25:16,419 - __main__ - INFO - Администратор 349017530 добавлен в базу данных
+2026-01-30 22:25:16,981 - aiogram.event - INFO - Update id=126318741 is handled. Duration 574 ms by bot id=8541102393
+2026-01-30 22:25:23,744 - aiogram.event - INFO - Update id=126318742 is handled. Duration 227 ms by bot id=8541102393
+2026-01-30 22:25:29,440 - aiogram.event - INFO - Update id=126318743 is handled. Duration 257 ms by bot id=8541102393
+2026-01-30 22:25:33,095 - aiogram.event - INFO - Update id=126318744 is handled. Duration 269 ms by bot id=8541102393
+2026-01-30 22:25:38,810 - __main__ - INFO - Найдено пользователей: 1
+2026-01-30 22:25:38,810 - __main__ - INFO - Пользователь: ID=349017530, Имя=Вадим, Username=Vodimiy95
+2026-01-30 22:25:39,058 - aiogram.event - INFO - Update id=126318745 is handled. Duration 503 ms by bot id=8541102393
+2026-01-30 22:27:56,637 - aiogram.event - INFO - Update id=126318746 is handled. Duration 271 ms by bot id=8541102393
+2026-01-30 22:28:14,368 - aiogram.event - INFO - Update id=126318747 is handled. Duration 139 ms by bot id=8541102393
+2026-01-30 22:28:17,132 - aiogram.event - INFO - Update id=126318748 is handled. Duration 138 ms by bot id=8541102393
+2026-01-30 22:28:18,832 - aiogram.event - INFO - Update id=126318749 is handled. Duration 132 ms by bot id=8541102393
+2026-01-30 22:28:20,613 - aiogram.event - INFO - Update id=126318750 is handled. Duration 139 ms by bot id=8541102393
+2026-01-30 22:28:26,226 - aiogram.event - INFO - Update id=126318751 is handled. Duration 119 ms by bot id=8541102393
+2026-01-30 22:28:30,794 - aiogram.event - INFO - Update id=126318752 is handled. Duration 232 ms by bot id=8541102393
+2026-01-30 22:28:34,812 - aiogram.event - INFO - Update id=126318753 is handled. Duration 169 ms by bot id=8541102393
+2026-01-30 22:28:40,223 - __main__ - INFO - Найдено пользователей: 1
+2026-01-30 22:28:40,223 - __main__ - INFO - Пользователь: ID=349017530, Имя=Вадим, Username=Vodimiy95
+2026-01-30 22:28:40,346 - aiogram.event - INFO - Update id=126318754 is handled. Duration 248 ms by bot id=8541102393
+2026-01-30 22:28:49,416 - aiogram.event - INFO - Update id=126318755 is handled. Duration 321 ms by bot id=8541102393
+2026-01-30 22:28:56,248 - __main__ - INFO - Найдено пользователей: 1
+2026-01-30 22:28:56,248 - __main__ - INFO - Пользователь: ID=349017530, Имя=Вадим, Username=Vodimiy95
+2026-01-30 22:28:56,412 - aiogram.event - INFO - Update id=126318756 is handled. Duration 307 ms by bot id=8541102393
+2026-01-30 22:29:00,794 - aiogram.event - INFO - Update id=126318757 is handled. Duration 134 ms by bot id=8541102393
+2026-01-30 22:29:02,908 - aiogram.event - INFO - Update id=126318758 is handled. Duration 125 ms by bot id=8541102393
+2026-01-30 22:29:04,215 - aiogram.event - INFO - Update id=126318759 is handled. Duration 264 ms by bot id=8541102393
+2026-01-30 22:53:32,493 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-01-30 22:53:32,499 - aiogram.dispatcher - INFO - Polling stopped for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-01-30 22:53:32,501 - aiogram.dispatcher - INFO - Polling stopped
+2026-01-30 22:54:24,188 - __main__ - INFO - Найдено 1 пользователей с питомцами, но без записи в users
+2026-01-30 22:54:24,706 - __main__ - INFO - Добавлено 1 пользователей в базу
+2026-01-30 22:54:24,914 - aiogram.dispatcher - INFO - Start polling
+2026-01-30 22:54:25,015 - aiogram.dispatcher - INFO - Run polling for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-01-30 22:55:02,294 - aiogram.event - INFO - Update id=126318760 is handled. Duration 489 ms by bot id=8541102393
+2026-01-30 22:55:05,090 - aiogram.event - INFO - Update id=126318761 is handled. Duration 139 ms by bot id=8541102393
+2026-01-30 22:55:07,579 - __main__ - INFO - Найдено пользователей: 2
+2026-01-30 22:55:07,579 - __main__ - INFO - Пользователь: ID=292979272, Имя=Valentina, Username=ValentinaIvanovaa
+2026-01-30 22:55:07,579 - __main__ - INFO - Пользователь: ID=349017530, Имя=Вадим, Username=Vodimiy95
+2026-01-30 22:55:07,715 - aiogram.event - INFO - Update id=126318762 is handled. Duration 301 ms by bot id=8541102393
+2026-01-30 23:42:17,406 - __main__ - INFO - Найдено пользователей: 2
+2026-01-30 23:42:17,406 - __main__ - INFO - Пользователь: ID=292979272, Имя=Valentina, Username=ValentinaIvanovaa
+2026-01-30 23:42:17,406 - __main__ - INFO - Пользователь: ID=349017530, Имя=Вадим, Username=Vodimiy95
+2026-01-30 23:42:17,578 - aiogram.event - INFO - Update id=126318763 is handled. Duration 666 ms by bot id=8541102393
+2026-01-30 23:42:23,848 - aiogram.event - INFO - Update id=126318764 is handled. Duration 724 ms by bot id=8541102393
+2026-01-30 23:42:36,901 - aiogram.event - INFO - Update id=126318765 is handled. Duration 310 ms by bot id=8541102393
+2026-01-30 23:42:43,277 - aiogram.event - INFO - Update id=126318766 is handled. Duration 778 ms by bot id=8541102393
+2026-01-31 00:49:29,954 - aiogram.event - INFO - Update id=126318767 is handled. Duration 410 ms by bot id=8541102393
+2026-01-31 11:54:41,614 - aiogram.event - INFO - Update id=126318768 is handled. Duration 437 ms by bot id=8541102393
+2026-01-31 11:54:46,746 - aiogram.event - INFO - Update id=126318769 is handled. Duration 130 ms by bot id=8541102393
+2026-01-31 11:54:48,865 - aiogram.event - INFO - Update id=126318770 is handled. Duration 150 ms by bot id=8541102393
+2026-01-31 11:55:05,790 - aiogram.event - INFO - Update id=126318771 is handled. Duration 138 ms by bot id=8541102393
+2026-01-31 11:55:08,627 - aiogram.event - INFO - Update id=126318772 is not handled. Duration 4 ms by bot id=8541102393
+2026-01-31 11:55:25,295 - aiogram.event - INFO - Update id=126318773 is not handled. Duration 3 ms by bot id=8541102393
+2026-01-31 11:55:33,634 - aiogram.event - INFO - Update id=126318774 is handled. Duration 131 ms by bot id=8541102393
+2026-01-31 11:55:36,410 - aiogram.event - INFO - Update id=126318775 is handled. Duration 140 ms by bot id=8541102393
+2026-01-31 11:55:37,604 - aiogram.event - INFO - Update id=126318776 is not handled. Duration 4 ms by bot id=8541102393
+2026-01-31 11:55:48,308 - aiogram.event - INFO - Update id=126318777 is not handled. Duration 5 ms by bot id=8541102393
+2026-01-31 11:55:49,899 - aiogram.event - INFO - Update id=126318778 is not handled. Duration 3 ms by bot id=8541102393
+2026-01-31 11:55:50,169 - aiogram.event - INFO - Update id=126318779 is not handled. Duration 4 ms by bot id=8541102393
+2026-01-31 11:55:50,460 - aiogram.event - INFO - Update id=126318780 is not handled. Duration 3 ms by bot id=8541102393
+2026-01-31 11:55:52,949 - aiogram.event - INFO - Update id=126318781 is handled. Duration 195 ms by bot id=8541102393
+2026-01-31 11:55:53,573 - aiogram.event - INFO - Update id=126318782 is handled. Duration 166 ms by bot id=8541102393
+2026-01-31 11:55:54,499 - aiogram.event - INFO - Update id=126318783 is not handled. Duration 3 ms by bot id=8541102393
+2026-01-31 11:55:56,359 - aiogram.event - INFO - Update id=126318784 is handled. Duration 134 ms by bot id=8541102393
+2026-01-31 11:55:57,430 - aiogram.event - INFO - Update id=126318785 is not handled. Duration 2 ms by bot id=8541102393
+2026-01-31 11:55:59,884 - aiogram.event - INFO - Update id=126318786 is handled. Duration 170 ms by bot id=8541102393
+2026-01-31 11:56:01,776 - aiogram.event - INFO - Update id=126318787 is handled. Duration 134 ms by bot id=8541102393
+2026-01-31 11:56:09,155 - aiogram.event - INFO - Update id=126318788 is handled. Duration 125 ms by bot id=8541102393
+2026-01-31 11:56:11,736 - aiogram.event - INFO - Update id=126318789 is handled. Duration 111 ms by bot id=8541102393
+2026-01-31 11:56:15,530 - aiogram.event - INFO - Update id=126318790 is handled. Duration 138 ms by bot id=8541102393
+2026-01-31 11:56:18,408 - aiogram.event - INFO - Update id=126318791 is handled. Duration 150 ms by bot id=8541102393
+2026-01-31 11:56:20,334 - aiogram.event - INFO - Update id=126318792 is handled. Duration 227 ms by bot id=8541102393
+2026-01-31 11:56:21,674 - aiogram.event - INFO - Update id=126318793 is handled. Duration 231 ms by bot id=8541102393
+2026-01-31 11:56:23,393 - __main__ - INFO - Количество линек питомца 1 обновлено: 1 -> 2
+2026-01-31 11:56:23,402 - __main__ - INFO - Записано molt для питомца 1 на 2026-01-31 11:56:21.444691
+2026-01-31 11:56:23,525 - __main__ - INFO - Пользователь 349017530 записал molt для питомца 1
+2026-01-31 11:56:23,627 - aiogram.event - INFO - Update id=126318794 is handled. Duration 240 ms by bot id=8541102393
+2026-01-31 20:22:55,328 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:22:55,331 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8541102393)
+2026-01-31 20:23:26,341 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:23:26,341 - aiogram.dispatcher - WARNING - Sleep for 1.297089 seconds and try again... (tryings = 1, bot id = 8541102393)
+2026-01-31 20:23:57,647 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:23:57,648 - aiogram.dispatcher - WARNING - Sleep for 1.619518 seconds and try again... (tryings = 2, bot id = 8541102393)
+2026-01-31 20:24:29,273 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:24:29,273 - aiogram.dispatcher - WARNING - Sleep for 2.123359 seconds and try again... (tryings = 3, bot id = 8541102393)
+2026-01-31 20:25:01,406 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:25:01,406 - aiogram.dispatcher - WARNING - Sleep for 2.722531 seconds and try again... (tryings = 4, bot id = 8541102393)
+2026-01-31 20:25:34,137 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:25:34,137 - aiogram.dispatcher - WARNING - Sleep for 3.620618 seconds and try again... (tryings = 5, bot id = 8541102393)
+2026-01-31 20:26:07,764 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:26:07,765 - aiogram.dispatcher - WARNING - Sleep for 4.881588 seconds and try again... (tryings = 6, bot id = 8541102393)
+2026-01-31 20:26:42,654 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:26:42,655 - aiogram.dispatcher - WARNING - Sleep for 5.064323 seconds and try again... (tryings = 7, bot id = 8541102393)
+2026-01-31 20:27:17,728 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:27:17,728 - aiogram.dispatcher - WARNING - Sleep for 5.084296 seconds and try again... (tryings = 8, bot id = 8541102393)
+2026-01-31 20:27:52,821 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:27:52,821 - aiogram.dispatcher - WARNING - Sleep for 4.906963 seconds and try again... (tryings = 9, bot id = 8541102393)
+2026-01-31 20:28:27,736 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:28:27,737 - aiogram.dispatcher - WARNING - Sleep for 5.095762 seconds and try again... (tryings = 10, bot id = 8541102393)
+2026-01-31 20:29:02,841 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:29:02,843 - aiogram.dispatcher - WARNING - Sleep for 5.066111 seconds and try again... (tryings = 11, bot id = 8541102393)
+2026-01-31 20:29:37,917 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:29:37,918 - aiogram.dispatcher - WARNING - Sleep for 4.870231 seconds and try again... (tryings = 12, bot id = 8541102393)
+2026-01-31 20:30:12,796 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:30:12,796 - aiogram.dispatcher - WARNING - Sleep for 4.868728 seconds and try again... (tryings = 13, bot id = 8541102393)
+2026-01-31 20:30:47,671 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:30:47,672 - aiogram.dispatcher - WARNING - Sleep for 5.048511 seconds and try again... (tryings = 14, bot id = 8541102393)
+2026-01-31 20:31:22,727 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:31:22,727 - aiogram.dispatcher - WARNING - Sleep for 4.959706 seconds and try again... (tryings = 15, bot id = 8541102393)
+2026-01-31 20:31:57,701 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:31:57,701 - aiogram.dispatcher - WARNING - Sleep for 5.170312 seconds and try again... (tryings = 16, bot id = 8541102393)
+2026-01-31 20:32:32,879 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:32:32,880 - aiogram.dispatcher - WARNING - Sleep for 4.946553 seconds and try again... (tryings = 17, bot id = 8541102393)
+2026-01-31 20:33:07,833 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:33:07,833 - aiogram.dispatcher - WARNING - Sleep for 4.827813 seconds and try again... (tryings = 18, bot id = 8541102393)
+2026-01-31 20:33:42,668 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:33:42,668 - aiogram.dispatcher - WARNING - Sleep for 5.135782 seconds and try again... (tryings = 19, bot id = 8541102393)
+2026-01-31 20:34:17,813 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:34:17,813 - aiogram.dispatcher - WARNING - Sleep for 4.810887 seconds and try again... (tryings = 20, bot id = 8541102393)
+2026-01-31 20:34:52,631 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:34:52,631 - aiogram.dispatcher - WARNING - Sleep for 4.961714 seconds and try again... (tryings = 21, bot id = 8541102393)
+2026-01-31 20:35:27,599 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:35:27,599 - aiogram.dispatcher - WARNING - Sleep for 5.052497 seconds and try again... (tryings = 22, bot id = 8541102393)
+2026-01-31 20:36:02,658 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:36:02,659 - aiogram.dispatcher - WARNING - Sleep for 5.028062 seconds and try again... (tryings = 23, bot id = 8541102393)
+2026-01-31 20:36:37,693 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:36:37,693 - aiogram.dispatcher - WARNING - Sleep for 4.896273 seconds and try again... (tryings = 24, bot id = 8541102393)
+2026-01-31 20:37:12,597 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:37:12,598 - aiogram.dispatcher - WARNING - Sleep for 4.978329 seconds and try again... (tryings = 25, bot id = 8541102393)
+2026-01-31 20:37:47,583 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:37:47,584 - aiogram.dispatcher - WARNING - Sleep for 5.044648 seconds and try again... (tryings = 26, bot id = 8541102393)
+2026-01-31 20:38:22,636 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:38:22,638 - aiogram.dispatcher - WARNING - Sleep for 4.826485 seconds and try again... (tryings = 27, bot id = 8541102393)
+2026-01-31 20:38:57,473 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:38:57,473 - aiogram.dispatcher - WARNING - Sleep for 5.104950 seconds and try again... (tryings = 28, bot id = 8541102393)
+2026-01-31 20:39:32,583 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:39:32,584 - aiogram.dispatcher - WARNING - Sleep for 4.882245 seconds and try again... (tryings = 29, bot id = 8541102393)
+2026-01-31 20:40:07,474 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:40:07,474 - aiogram.dispatcher - WARNING - Sleep for 4.962975 seconds and try again... (tryings = 30, bot id = 8541102393)
+2026-01-31 20:40:42,445 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:40:42,446 - aiogram.dispatcher - WARNING - Sleep for 4.832577 seconds and try again... (tryings = 31, bot id = 8541102393)
+2026-01-31 20:41:17,287 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:41:17,287 - aiogram.dispatcher - WARNING - Sleep for 5.026090 seconds and try again... (tryings = 32, bot id = 8541102393)
+2026-01-31 20:41:52,321 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:41:52,321 - aiogram.dispatcher - WARNING - Sleep for 5.091887 seconds and try again... (tryings = 33, bot id = 8541102393)
+2026-01-31 20:42:27,420 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:42:27,420 - aiogram.dispatcher - WARNING - Sleep for 4.956988 seconds and try again... (tryings = 34, bot id = 8541102393)
+2026-01-31 20:43:02,385 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:43:02,385 - aiogram.dispatcher - WARNING - Sleep for 5.021087 seconds and try again... (tryings = 35, bot id = 8541102393)
+2026-01-31 20:43:37,414 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:43:37,415 - aiogram.dispatcher - WARNING - Sleep for 5.014719 seconds and try again... (tryings = 36, bot id = 8541102393)
+2026-01-31 20:44:12,437 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:44:12,437 - aiogram.dispatcher - WARNING - Sleep for 4.985778 seconds and try again... (tryings = 37, bot id = 8541102393)
+2026-01-31 20:44:47,431 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:44:47,432 - aiogram.dispatcher - WARNING - Sleep for 4.850038 seconds and try again... (tryings = 38, bot id = 8541102393)
+2026-01-31 20:45:22,288 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:45:22,289 - aiogram.dispatcher - WARNING - Sleep for 5.046504 seconds and try again... (tryings = 39, bot id = 8541102393)
+2026-01-31 20:45:57,341 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:45:57,342 - aiogram.dispatcher - WARNING - Sleep for 4.953937 seconds and try again... (tryings = 40, bot id = 8541102393)
+2026-01-31 20:46:32,303 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:46:32,303 - aiogram.dispatcher - WARNING - Sleep for 4.887100 seconds and try again... (tryings = 41, bot id = 8541102393)
+2026-01-31 20:47:07,197 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:47:07,197 - aiogram.dispatcher - WARNING - Sleep for 5.160856 seconds and try again... (tryings = 42, bot id = 8541102393)
+2026-01-31 20:47:42,367 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:47:42,367 - aiogram.dispatcher - WARNING - Sleep for 5.005317 seconds and try again... (tryings = 43, bot id = 8541102393)
+2026-01-31 20:48:17,378 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:48:17,379 - aiogram.dispatcher - WARNING - Sleep for 5.203648 seconds and try again... (tryings = 44, bot id = 8541102393)
+2026-01-31 20:48:52,590 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:48:52,591 - aiogram.dispatcher - WARNING - Sleep for 4.905000 seconds and try again... (tryings = 45, bot id = 8541102393)
+2026-01-31 20:49:27,504 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:49:27,505 - aiogram.dispatcher - WARNING - Sleep for 5.026332 seconds and try again... (tryings = 46, bot id = 8541102393)
+2026-01-31 20:50:02,539 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:50:02,540 - aiogram.dispatcher - WARNING - Sleep for 4.982662 seconds and try again... (tryings = 47, bot id = 8541102393)
+2026-01-31 20:50:37,531 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:50:37,531 - aiogram.dispatcher - WARNING - Sleep for 4.909227 seconds and try again... (tryings = 48, bot id = 8541102393)
+2026-01-31 20:51:12,448 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:51:12,448 - aiogram.dispatcher - WARNING - Sleep for 4.886845 seconds and try again... (tryings = 49, bot id = 8541102393)
+2026-01-31 20:51:47,344 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:51:47,344 - aiogram.dispatcher - WARNING - Sleep for 4.850922 seconds and try again... (tryings = 50, bot id = 8541102393)
+2026-01-31 20:52:22,202 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:52:22,203 - aiogram.dispatcher - WARNING - Sleep for 5.016486 seconds and try again... (tryings = 51, bot id = 8541102393)
+2026-01-31 20:52:57,227 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:52:57,228 - aiogram.dispatcher - WARNING - Sleep for 4.975127 seconds and try again... (tryings = 52, bot id = 8541102393)
+2026-01-31 20:53:32,210 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:53:32,210 - aiogram.dispatcher - WARNING - Sleep for 5.056852 seconds and try again... (tryings = 53, bot id = 8541102393)
+2026-01-31 20:54:07,275 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:54:07,275 - aiogram.dispatcher - WARNING - Sleep for 5.065229 seconds and try again... (tryings = 54, bot id = 8541102393)
+2026-01-31 20:54:42,348 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:54:42,348 - aiogram.dispatcher - WARNING - Sleep for 5.242165 seconds and try again... (tryings = 55, bot id = 8541102393)
+2026-01-31 20:55:17,597 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:55:17,598 - aiogram.dispatcher - WARNING - Sleep for 4.962410 seconds and try again... (tryings = 56, bot id = 8541102393)
+2026-01-31 20:55:52,566 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:55:52,567 - aiogram.dispatcher - WARNING - Sleep for 4.963339 seconds and try again... (tryings = 57, bot id = 8541102393)
+2026-01-31 20:56:27,538 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:56:27,539 - aiogram.dispatcher - WARNING - Sleep for 4.865433 seconds and try again... (tryings = 58, bot id = 8541102393)
+2026-01-31 20:57:02,411 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:57:02,412 - aiogram.dispatcher - WARNING - Sleep for 4.925978 seconds and try again... (tryings = 59, bot id = 8541102393)
+2026-01-31 20:57:37,345 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:57:37,345 - aiogram.dispatcher - WARNING - Sleep for 5.120906 seconds and try again... (tryings = 60, bot id = 8541102393)
+2026-01-31 20:58:12,474 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:58:12,475 - aiogram.dispatcher - WARNING - Sleep for 5.122873 seconds and try again... (tryings = 61, bot id = 8541102393)
+2026-01-31 20:58:47,605 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:58:47,606 - aiogram.dispatcher - WARNING - Sleep for 4.886221 seconds and try again... (tryings = 62, bot id = 8541102393)
+2026-01-31 20:59:22,499 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:59:22,500 - aiogram.dispatcher - WARNING - Sleep for 5.205569 seconds and try again... (tryings = 63, bot id = 8541102393)
+2026-01-31 20:59:57,714 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 20:59:57,714 - aiogram.dispatcher - WARNING - Sleep for 4.971739 seconds and try again... (tryings = 64, bot id = 8541102393)
+2026-01-31 21:00:32,691 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:00:32,691 - aiogram.dispatcher - WARNING - Sleep for 4.998610 seconds and try again... (tryings = 65, bot id = 8541102393)
+2026-01-31 21:01:07,698 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:01:07,698 - aiogram.dispatcher - WARNING - Sleep for 4.955060 seconds and try again... (tryings = 66, bot id = 8541102393)
+2026-01-31 21:01:42,662 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:01:42,663 - aiogram.dispatcher - WARNING - Sleep for 5.001559 seconds and try again... (tryings = 67, bot id = 8541102393)
+2026-01-31 21:02:17,672 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:02:17,673 - aiogram.dispatcher - WARNING - Sleep for 5.099648 seconds and try again... (tryings = 68, bot id = 8541102393)
+2026-01-31 21:02:52,781 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:02:52,781 - aiogram.dispatcher - WARNING - Sleep for 5.015535 seconds and try again... (tryings = 69, bot id = 8541102393)
+2026-01-31 21:03:27,805 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:03:27,805 - aiogram.dispatcher - WARNING - Sleep for 4.971621 seconds and try again... (tryings = 70, bot id = 8541102393)
+2026-01-31 21:04:02,784 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:04:02,784 - aiogram.dispatcher - WARNING - Sleep for 5.023316 seconds and try again... (tryings = 71, bot id = 8541102393)
+2026-01-31 21:04:37,815 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:04:37,816 - aiogram.dispatcher - WARNING - Sleep for 4.760019 seconds and try again... (tryings = 72, bot id = 8541102393)
+2026-01-31 21:05:12,584 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:05:12,585 - aiogram.dispatcher - WARNING - Sleep for 4.937426 seconds and try again... (tryings = 73, bot id = 8541102393)
+2026-01-31 21:05:47,531 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:05:47,531 - aiogram.dispatcher - WARNING - Sleep for 5.062125 seconds and try again... (tryings = 74, bot id = 8541102393)
+2026-01-31 21:06:22,601 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:06:22,602 - aiogram.dispatcher - WARNING - Sleep for 4.875828 seconds and try again... (tryings = 75, bot id = 8541102393)
+2026-01-31 21:06:57,484 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:06:57,485 - aiogram.dispatcher - WARNING - Sleep for 4.864070 seconds and try again... (tryings = 76, bot id = 8541102393)
+2026-01-31 21:07:32,364 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:07:32,365 - aiogram.dispatcher - WARNING - Sleep for 5.151346 seconds and try again... (tryings = 77, bot id = 8541102393)
+2026-01-31 21:08:07,525 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:08:07,526 - aiogram.dispatcher - WARNING - Sleep for 5.064510 seconds and try again... (tryings = 78, bot id = 8541102393)
+2026-01-31 21:08:42,596 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:08:42,596 - aiogram.dispatcher - WARNING - Sleep for 4.984005 seconds and try again... (tryings = 79, bot id = 8541102393)
+2026-01-31 21:09:17,588 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:09:17,589 - aiogram.dispatcher - WARNING - Sleep for 5.134421 seconds and try again... (tryings = 80, bot id = 8541102393)
+2026-01-31 21:09:52,731 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:09:52,732 - aiogram.dispatcher - WARNING - Sleep for 4.980477 seconds and try again... (tryings = 81, bot id = 8541102393)
+2026-01-31 21:10:27,721 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:10:27,721 - aiogram.dispatcher - WARNING - Sleep for 5.011359 seconds and try again... (tryings = 82, bot id = 8541102393)
+2026-01-31 21:11:02,741 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:11:02,742 - aiogram.dispatcher - WARNING - Sleep for 5.001745 seconds and try again... (tryings = 83, bot id = 8541102393)
+2026-01-31 21:11:37,750 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:11:37,751 - aiogram.dispatcher - WARNING - Sleep for 4.955048 seconds and try again... (tryings = 84, bot id = 8541102393)
+2026-01-31 21:12:12,713 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:12:12,713 - aiogram.dispatcher - WARNING - Sleep for 5.175666 seconds and try again... (tryings = 85, bot id = 8541102393)
+2026-01-31 21:12:47,898 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:12:47,898 - aiogram.dispatcher - WARNING - Sleep for 4.752745 seconds and try again... (tryings = 86, bot id = 8541102393)
+2026-01-31 21:13:22,655 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:13:22,656 - aiogram.dispatcher - WARNING - Sleep for 5.001060 seconds and try again... (tryings = 87, bot id = 8541102393)
+2026-01-31 21:13:57,665 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:13:57,665 - aiogram.dispatcher - WARNING - Sleep for 4.880303 seconds and try again... (tryings = 88, bot id = 8541102393)
+2026-01-31 21:14:32,551 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:14:32,551 - aiogram.dispatcher - WARNING - Sleep for 4.911614 seconds and try again... (tryings = 89, bot id = 8541102393)
+2026-01-31 21:15:07,469 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:15:07,470 - aiogram.dispatcher - WARNING - Sleep for 4.954369 seconds and try again... (tryings = 90, bot id = 8541102393)
+2026-01-31 21:15:42,432 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:15:42,432 - aiogram.dispatcher - WARNING - Sleep for 4.923561 seconds and try again... (tryings = 91, bot id = 8541102393)
+2026-01-31 21:16:17,364 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:16:17,364 - aiogram.dispatcher - WARNING - Sleep for 5.121014 seconds and try again... (tryings = 92, bot id = 8541102393)
+2026-01-31 21:16:52,492 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:16:52,493 - aiogram.dispatcher - WARNING - Sleep for 4.960108 seconds and try again... (tryings = 93, bot id = 8541102393)
+2026-01-31 21:17:27,460 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:17:27,461 - aiogram.dispatcher - WARNING - Sleep for 4.836090 seconds and try again... (tryings = 94, bot id = 8541102393)
+2026-01-31 21:18:02,306 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:18:02,307 - aiogram.dispatcher - WARNING - Sleep for 5.093262 seconds and try again... (tryings = 95, bot id = 8541102393)
+2026-01-31 21:18:37,408 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:18:37,409 - aiogram.dispatcher - WARNING - Sleep for 5.175209 seconds and try again... (tryings = 96, bot id = 8541102393)
+2026-01-31 21:19:12,591 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:19:12,592 - aiogram.dispatcher - WARNING - Sleep for 4.856610 seconds and try again... (tryings = 97, bot id = 8541102393)
+2026-01-31 21:19:47,456 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:19:47,456 - aiogram.dispatcher - WARNING - Sleep for 5.089747 seconds and try again... (tryings = 98, bot id = 8541102393)
+2026-01-31 21:20:22,553 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:20:22,554 - aiogram.dispatcher - WARNING - Sleep for 4.973015 seconds and try again... (tryings = 99, bot id = 8541102393)
+2026-01-31 21:20:57,535 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:20:57,535 - aiogram.dispatcher - WARNING - Sleep for 4.962185 seconds and try again... (tryings = 100, bot id = 8541102393)
+2026-01-31 21:21:32,504 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:21:32,504 - aiogram.dispatcher - WARNING - Sleep for 5.010147 seconds and try again... (tryings = 101, bot id = 8541102393)
+2026-01-31 21:22:07,522 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:22:07,522 - aiogram.dispatcher - WARNING - Sleep for 5.078664 seconds and try again... (tryings = 102, bot id = 8541102393)
+2026-01-31 21:22:42,609 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:22:42,609 - aiogram.dispatcher - WARNING - Sleep for 4.911207 seconds and try again... (tryings = 103, bot id = 8541102393)
+2026-01-31 21:23:17,527 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:23:17,527 - aiogram.dispatcher - WARNING - Sleep for 5.037859 seconds and try again... (tryings = 104, bot id = 8541102393)
+2026-01-31 21:23:52,573 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:23:52,573 - aiogram.dispatcher - WARNING - Sleep for 4.976434 seconds and try again... (tryings = 105, bot id = 8541102393)
+2026-01-31 21:24:27,557 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:24:27,558 - aiogram.dispatcher - WARNING - Sleep for 4.922336 seconds and try again... (tryings = 106, bot id = 8541102393)
+2026-01-31 21:25:02,486 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:25:02,486 - aiogram.dispatcher - WARNING - Sleep for 5.105358 seconds and try again... (tryings = 107, bot id = 8541102393)
+2026-01-31 21:25:37,598 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:25:37,599 - aiogram.dispatcher - WARNING - Sleep for 4.976430 seconds and try again... (tryings = 108, bot id = 8541102393)
+2026-01-31 21:26:12,583 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:26:12,583 - aiogram.dispatcher - WARNING - Sleep for 4.900621 seconds and try again... (tryings = 109, bot id = 8541102393)
+2026-01-31 21:26:47,493 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:26:47,493 - aiogram.dispatcher - WARNING - Sleep for 5.001914 seconds and try again... (tryings = 110, bot id = 8541102393)
+2026-01-31 21:27:22,501 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:27:22,502 - aiogram.dispatcher - WARNING - Sleep for 4.959031 seconds and try again... (tryings = 111, bot id = 8541102393)
+2026-01-31 21:27:57,468 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:27:57,468 - aiogram.dispatcher - WARNING - Sleep for 5.051682 seconds and try again... (tryings = 112, bot id = 8541102393)
+2026-01-31 21:28:32,527 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:28:32,529 - aiogram.dispatcher - WARNING - Sleep for 4.933291 seconds and try again... (tryings = 113, bot id = 8541102393)
+2026-01-31 21:29:07,469 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:29:07,470 - aiogram.dispatcher - WARNING - Sleep for 4.891510 seconds and try again... (tryings = 114, bot id = 8541102393)
+2026-01-31 21:29:42,368 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:29:42,368 - aiogram.dispatcher - WARNING - Sleep for 5.146651 seconds and try again... (tryings = 115, bot id = 8541102393)
+2026-01-31 21:30:17,523 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:30:17,524 - aiogram.dispatcher - WARNING - Sleep for 5.029479 seconds and try again... (tryings = 116, bot id = 8541102393)
+2026-01-31 21:30:52,561 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:30:52,562 - aiogram.dispatcher - WARNING - Sleep for 5.002814 seconds and try again... (tryings = 117, bot id = 8541102393)
+2026-01-31 21:31:27,574 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:31:27,574 - aiogram.dispatcher - WARNING - Sleep for 4.968423 seconds and try again... (tryings = 118, bot id = 8541102393)
+2026-01-31 21:32:02,550 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:32:02,551 - aiogram.dispatcher - WARNING - Sleep for 5.069387 seconds and try again... (tryings = 119, bot id = 8541102393)
+2026-01-31 21:32:37,628 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:32:37,629 - aiogram.dispatcher - WARNING - Sleep for 5.029905 seconds and try again... (tryings = 120, bot id = 8541102393)
+2026-01-31 21:33:12,667 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:33:12,667 - aiogram.dispatcher - WARNING - Sleep for 4.985881 seconds and try again... (tryings = 121, bot id = 8541102393)
+2026-01-31 21:33:47,661 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:33:47,662 - aiogram.dispatcher - WARNING - Sleep for 4.828281 seconds and try again... (tryings = 122, bot id = 8541102393)
+2026-01-31 21:34:22,498 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:34:22,498 - aiogram.dispatcher - WARNING - Sleep for 5.037897 seconds and try again... (tryings = 123, bot id = 8541102393)
+2026-01-31 21:34:57,544 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:34:57,544 - aiogram.dispatcher - WARNING - Sleep for 4.911127 seconds and try again... (tryings = 124, bot id = 8541102393)
+2026-01-31 21:35:32,464 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:35:32,464 - aiogram.dispatcher - WARNING - Sleep for 4.844102 seconds and try again... (tryings = 125, bot id = 8541102393)
+2026-01-31 21:36:07,317 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:36:07,318 - aiogram.dispatcher - WARNING - Sleep for 5.000478 seconds and try again... (tryings = 126, bot id = 8541102393)
+2026-01-31 21:36:42,326 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:36:42,326 - aiogram.dispatcher - WARNING - Sleep for 5.165811 seconds and try again... (tryings = 127, bot id = 8541102393)
+2026-01-31 21:37:17,499 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:37:17,499 - aiogram.dispatcher - WARNING - Sleep for 5.011766 seconds and try again... (tryings = 128, bot id = 8541102393)
+2026-01-31 21:37:52,519 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:37:52,520 - aiogram.dispatcher - WARNING - Sleep for 5.089775 seconds and try again... (tryings = 129, bot id = 8541102393)
+2026-01-31 21:38:27,617 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:38:27,617 - aiogram.dispatcher - WARNING - Sleep for 5.175216 seconds and try again... (tryings = 130, bot id = 8541102393)
+2026-01-31 21:39:02,799 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:39:02,799 - aiogram.dispatcher - WARNING - Sleep for 4.793454 seconds and try again... (tryings = 131, bot id = 8541102393)
+2026-01-31 21:39:37,600 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:39:37,602 - aiogram.dispatcher - WARNING - Sleep for 4.860453 seconds and try again... (tryings = 132, bot id = 8541102393)
+2026-01-31 21:40:12,471 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:40:12,471 - aiogram.dispatcher - WARNING - Sleep for 5.220219 seconds and try again... (tryings = 133, bot id = 8541102393)
+2026-01-31 21:40:47,700 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:40:47,700 - aiogram.dispatcher - WARNING - Sleep for 4.929451 seconds and try again... (tryings = 134, bot id = 8541102393)
+2026-01-31 21:41:22,638 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:41:22,638 - aiogram.dispatcher - WARNING - Sleep for 4.855867 seconds and try again... (tryings = 135, bot id = 8541102393)
+2026-01-31 21:41:57,501 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:41:57,501 - aiogram.dispatcher - WARNING - Sleep for 4.828902 seconds and try again... (tryings = 136, bot id = 8541102393)
+2026-01-31 21:42:32,336 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:42:32,336 - aiogram.dispatcher - WARNING - Sleep for 4.909674 seconds and try again... (tryings = 137, bot id = 8541102393)
+2026-01-31 21:43:07,254 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:43:07,254 - aiogram.dispatcher - WARNING - Sleep for 4.947424 seconds and try again... (tryings = 138, bot id = 8541102393)
+2026-01-31 21:43:42,209 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:43:42,209 - aiogram.dispatcher - WARNING - Sleep for 4.834473 seconds and try again... (tryings = 139, bot id = 8541102393)
+2026-01-31 21:44:17,052 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:44:17,053 - aiogram.dispatcher - WARNING - Sleep for 5.181800 seconds and try again... (tryings = 140, bot id = 8541102393)
+2026-01-31 21:44:52,242 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:44:52,243 - aiogram.dispatcher - WARNING - Sleep for 4.877675 seconds and try again... (tryings = 141, bot id = 8541102393)
+2026-01-31 21:45:27,128 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:45:27,129 - aiogram.dispatcher - WARNING - Sleep for 5.001591 seconds and try again... (tryings = 142, bot id = 8541102393)
+2026-01-31 21:46:02,137 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:46:02,138 - aiogram.dispatcher - WARNING - Sleep for 5.001363 seconds and try again... (tryings = 143, bot id = 8541102393)
+2026-01-31 21:46:37,146 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:46:37,147 - aiogram.dispatcher - WARNING - Sleep for 5.102576 seconds and try again... (tryings = 144, bot id = 8541102393)
+2026-01-31 21:47:12,256 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:47:12,256 - aiogram.dispatcher - WARNING - Sleep for 4.946528 seconds and try again... (tryings = 145, bot id = 8541102393)
+2026-01-31 21:47:47,210 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:47:47,211 - aiogram.dispatcher - WARNING - Sleep for 4.859188 seconds and try again... (tryings = 146, bot id = 8541102393)
+2026-01-31 21:48:22,079 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:48:22,079 - aiogram.dispatcher - WARNING - Sleep for 5.120455 seconds and try again... (tryings = 147, bot id = 8541102393)
+2026-01-31 21:48:57,207 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:48:57,208 - aiogram.dispatcher - WARNING - Sleep for 4.993419 seconds and try again... (tryings = 148, bot id = 8541102393)
+2026-01-31 21:49:32,208 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:49:32,208 - aiogram.dispatcher - WARNING - Sleep for 4.801784 seconds and try again... (tryings = 149, bot id = 8541102393)
+2026-01-31 21:50:07,019 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:50:07,020 - aiogram.dispatcher - WARNING - Sleep for 5.161540 seconds and try again... (tryings = 150, bot id = 8541102393)
+2026-01-31 21:50:42,189 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:50:42,190 - aiogram.dispatcher - WARNING - Sleep for 4.974989 seconds and try again... (tryings = 151, bot id = 8541102393)
+2026-01-31 21:51:17,173 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:51:17,173 - aiogram.dispatcher - WARNING - Sleep for 4.980576 seconds and try again... (tryings = 152, bot id = 8541102393)
+2026-01-31 21:51:52,162 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:51:52,162 - aiogram.dispatcher - WARNING - Sleep for 5.000891 seconds and try again... (tryings = 153, bot id = 8541102393)
+2026-01-31 21:52:27,171 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:52:27,172 - aiogram.dispatcher - WARNING - Sleep for 5.082302 seconds and try again... (tryings = 154, bot id = 8541102393)
+2026-01-31 21:53:02,261 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:53:02,261 - aiogram.dispatcher - WARNING - Sleep for 5.118346 seconds and try again... (tryings = 155, bot id = 8541102393)
+2026-01-31 21:53:37,387 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:53:37,388 - aiogram.dispatcher - WARNING - Sleep for 4.908248 seconds and try again... (tryings = 156, bot id = 8541102393)
+2026-01-31 21:54:12,304 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:54:12,305 - aiogram.dispatcher - WARNING - Sleep for 4.959221 seconds and try again... (tryings = 157, bot id = 8541102393)
+2026-01-31 21:54:47,273 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:54:47,273 - aiogram.dispatcher - WARNING - Sleep for 4.832699 seconds and try again... (tryings = 158, bot id = 8541102393)
+2026-01-31 21:55:22,113 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:55:22,114 - aiogram.dispatcher - WARNING - Sleep for 5.071124 seconds and try again... (tryings = 159, bot id = 8541102393)
+2026-01-31 21:55:57,192 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:55:57,192 - aiogram.dispatcher - WARNING - Sleep for 5.161512 seconds and try again... (tryings = 160, bot id = 8541102393)
+2026-01-31 21:56:32,362 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:56:32,362 - aiogram.dispatcher - WARNING - Sleep for 5.015529 seconds and try again... (tryings = 161, bot id = 8541102393)
+2026-01-31 21:57:07,383 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:57:07,383 - aiogram.dispatcher - WARNING - Sleep for 5.058095 seconds and try again... (tryings = 162, bot id = 8541102393)
+2026-01-31 21:57:42,447 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:57:42,447 - aiogram.dispatcher - WARNING - Sleep for 4.993974 seconds and try again... (tryings = 163, bot id = 8541102393)
+2026-01-31 21:58:17,449 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:58:17,450 - aiogram.dispatcher - WARNING - Sleep for 4.953139 seconds and try again... (tryings = 164, bot id = 8541102393)
+2026-01-31 21:58:52,411 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:58:52,412 - aiogram.dispatcher - WARNING - Sleep for 4.886088 seconds and try again... (tryings = 165, bot id = 8541102393)
+2026-01-31 21:59:27,304 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 21:59:27,305 - aiogram.dispatcher - WARNING - Sleep for 4.912059 seconds and try again... (tryings = 166, bot id = 8541102393)
+2026-01-31 22:00:02,224 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:00:02,224 - aiogram.dispatcher - WARNING - Sleep for 4.973001 seconds and try again... (tryings = 167, bot id = 8541102393)
+2026-01-31 22:00:37,204 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:00:37,206 - aiogram.dispatcher - WARNING - Sleep for 5.027077 seconds and try again... (tryings = 168, bot id = 8541102393)
+2026-01-31 22:01:12,241 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:01:12,242 - aiogram.dispatcher - WARNING - Sleep for 5.070483 seconds and try again... (tryings = 169, bot id = 8541102393)
+2026-01-31 22:01:47,318 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:01:47,319 - aiogram.dispatcher - WARNING - Sleep for 5.048763 seconds and try again... (tryings = 170, bot id = 8541102393)
+2026-01-31 22:02:22,374 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:02:22,374 - aiogram.dispatcher - WARNING - Sleep for 4.864548 seconds and try again... (tryings = 171, bot id = 8541102393)
+2026-01-31 22:02:57,244 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:02:57,245 - aiogram.dispatcher - WARNING - Sleep for 4.734769 seconds and try again... (tryings = 172, bot id = 8541102393)
+2026-01-31 22:03:31,988 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:03:31,988 - aiogram.dispatcher - WARNING - Sleep for 5.114341 seconds and try again... (tryings = 173, bot id = 8541102393)
+2026-01-31 22:04:07,111 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:04:07,111 - aiogram.dispatcher - WARNING - Sleep for 5.072064 seconds and try again... (tryings = 174, bot id = 8541102393)
+2026-01-31 22:04:42,191 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:04:42,191 - aiogram.dispatcher - WARNING - Sleep for 5.036024 seconds and try again... (tryings = 175, bot id = 8541102393)
+2026-01-31 22:05:17,234 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:05:17,234 - aiogram.dispatcher - WARNING - Sleep for 4.848678 seconds and try again... (tryings = 176, bot id = 8541102393)
+2026-01-31 22:05:52,092 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:05:52,092 - aiogram.dispatcher - WARNING - Sleep for 4.948480 seconds and try again... (tryings = 177, bot id = 8541102393)
+2026-01-31 22:06:27,046 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:06:27,047 - aiogram.dispatcher - WARNING - Sleep for 4.730364 seconds and try again... (tryings = 178, bot id = 8541102393)
+2026-01-31 22:07:01,784 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:07:01,785 - aiogram.dispatcher - WARNING - Sleep for 4.897964 seconds and try again... (tryings = 179, bot id = 8541102393)
+2026-01-31 22:07:36,691 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:07:36,691 - aiogram.dispatcher - WARNING - Sleep for 5.043781 seconds and try again... (tryings = 180, bot id = 8541102393)
+2026-01-31 22:08:11,743 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:08:11,743 - aiogram.dispatcher - WARNING - Sleep for 4.927130 seconds and try again... (tryings = 181, bot id = 8541102393)
+2026-01-31 22:08:46,677 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:08:46,677 - aiogram.dispatcher - WARNING - Sleep for 5.070730 seconds and try again... (tryings = 182, bot id = 8541102393)
+2026-01-31 22:09:21,756 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:09:21,756 - aiogram.dispatcher - WARNING - Sleep for 4.768619 seconds and try again... (tryings = 183, bot id = 8541102393)
+2026-01-31 22:09:56,533 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:09:56,533 - aiogram.dispatcher - WARNING - Sleep for 4.999653 seconds and try again... (tryings = 184, bot id = 8541102393)
+2026-01-31 22:10:31,540 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:10:31,540 - aiogram.dispatcher - WARNING - Sleep for 4.980206 seconds and try again... (tryings = 185, bot id = 8541102393)
+2026-01-31 22:11:06,528 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:11:06,528 - aiogram.dispatcher - WARNING - Sleep for 4.908871 seconds and try again... (tryings = 186, bot id = 8541102393)
+2026-01-31 22:11:41,443 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:11:41,444 - aiogram.dispatcher - WARNING - Sleep for 4.984682 seconds and try again... (tryings = 187, bot id = 8541102393)
+2026-01-31 22:12:16,435 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:12:16,436 - aiogram.dispatcher - WARNING - Sleep for 4.894575 seconds and try again... (tryings = 188, bot id = 8541102393)
+2026-01-31 22:12:51,338 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:12:51,339 - aiogram.dispatcher - WARNING - Sleep for 5.094267 seconds and try again... (tryings = 189, bot id = 8541102393)
+2026-01-31 22:13:26,443 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:13:26,444 - aiogram.dispatcher - WARNING - Sleep for 4.897535 seconds and try again... (tryings = 190, bot id = 8541102393)
+2026-01-31 22:14:01,347 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:14:01,348 - aiogram.dispatcher - WARNING - Sleep for 4.945001 seconds and try again... (tryings = 191, bot id = 8541102393)
+2026-01-31 22:14:36,302 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:14:36,303 - aiogram.dispatcher - WARNING - Sleep for 4.939396 seconds and try again... (tryings = 192, bot id = 8541102393)
+2026-01-31 22:15:11,249 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:15:11,249 - aiogram.dispatcher - WARNING - Sleep for 4.899861 seconds and try again... (tryings = 193, bot id = 8541102393)
+2026-01-31 22:15:46,157 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:15:46,158 - aiogram.dispatcher - WARNING - Sleep for 4.937035 seconds and try again... (tryings = 194, bot id = 8541102393)
+2026-01-31 22:16:21,101 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:16:21,102 - aiogram.dispatcher - WARNING - Sleep for 4.887017 seconds and try again... (tryings = 195, bot id = 8541102393)
+2026-01-31 22:16:55,996 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:16:55,997 - aiogram.dispatcher - WARNING - Sleep for 4.944612 seconds and try again... (tryings = 196, bot id = 8541102393)
+2026-01-31 22:17:30,950 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:17:30,951 - aiogram.dispatcher - WARNING - Sleep for 5.279310 seconds and try again... (tryings = 197, bot id = 8541102393)
+2026-01-31 22:18:06,239 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:18:06,240 - aiogram.dispatcher - WARNING - Sleep for 5.079489 seconds and try again... (tryings = 198, bot id = 8541102393)
+2026-01-31 22:18:41,328 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:18:41,329 - aiogram.dispatcher - WARNING - Sleep for 5.019643 seconds and try again... (tryings = 199, bot id = 8541102393)
+2026-01-31 22:19:16,355 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:19:16,355 - aiogram.dispatcher - WARNING - Sleep for 5.087707 seconds and try again... (tryings = 200, bot id = 8541102393)
+2026-01-31 22:19:51,451 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:19:51,451 - aiogram.dispatcher - WARNING - Sleep for 5.038395 seconds and try again... (tryings = 201, bot id = 8541102393)
+2026-01-31 22:20:26,497 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:20:26,498 - aiogram.dispatcher - WARNING - Sleep for 5.089762 seconds and try again... (tryings = 202, bot id = 8541102393)
+2026-01-31 22:21:01,594 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:21:01,595 - aiogram.dispatcher - WARNING - Sleep for 4.937036 seconds and try again... (tryings = 203, bot id = 8541102393)
+2026-01-31 22:21:36,540 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:21:36,541 - aiogram.dispatcher - WARNING - Sleep for 5.059182 seconds and try again... (tryings = 204, bot id = 8541102393)
+2026-01-31 22:22:11,606 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:22:11,607 - aiogram.dispatcher - WARNING - Sleep for 5.063973 seconds and try again... (tryings = 205, bot id = 8541102393)
+2026-01-31 22:22:46,679 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:22:46,679 - aiogram.dispatcher - WARNING - Sleep for 5.074447 seconds and try again... (tryings = 206, bot id = 8541102393)
+2026-01-31 22:23:21,762 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:23:21,762 - aiogram.dispatcher - WARNING - Sleep for 5.059492 seconds and try again... (tryings = 207, bot id = 8541102393)
+2026-01-31 22:23:56,827 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:23:56,827 - aiogram.dispatcher - WARNING - Sleep for 5.117398 seconds and try again... (tryings = 208, bot id = 8541102393)
+2026-01-31 22:24:31,951 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:24:31,951 - aiogram.dispatcher - WARNING - Sleep for 5.093095 seconds and try again... (tryings = 209, bot id = 8541102393)
+2026-01-31 22:25:07,052 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:25:07,052 - aiogram.dispatcher - WARNING - Sleep for 5.005084 seconds and try again... (tryings = 210, bot id = 8541102393)
+2026-01-31 22:25:42,064 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:25:42,065 - aiogram.dispatcher - WARNING - Sleep for 5.116367 seconds and try again... (tryings = 211, bot id = 8541102393)
+2026-01-31 22:26:17,189 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:26:17,190 - aiogram.dispatcher - WARNING - Sleep for 5.015222 seconds and try again... (tryings = 212, bot id = 8541102393)
+2026-01-31 22:26:52,213 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:26:52,214 - aiogram.dispatcher - WARNING - Sleep for 4.973224 seconds and try again... (tryings = 213, bot id = 8541102393)
+2026-01-31 22:27:27,195 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:27:27,196 - aiogram.dispatcher - WARNING - Sleep for 4.759464 seconds and try again... (tryings = 214, bot id = 8541102393)
+2026-01-31 22:28:01,961 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:28:01,962 - aiogram.dispatcher - WARNING - Sleep for 5.067648 seconds and try again... (tryings = 215, bot id = 8541102393)
+2026-01-31 22:28:37,037 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:28:37,037 - aiogram.dispatcher - WARNING - Sleep for 4.872484 seconds and try again... (tryings = 216, bot id = 8541102393)
+2026-01-31 22:29:11,915 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:29:11,915 - aiogram.dispatcher - WARNING - Sleep for 4.936610 seconds and try again... (tryings = 217, bot id = 8541102393)
+2026-01-31 22:29:46,860 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:29:46,861 - aiogram.dispatcher - WARNING - Sleep for 5.067148 seconds and try again... (tryings = 218, bot id = 8541102393)
+2026-01-31 22:30:21,935 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:30:21,936 - aiogram.dispatcher - WARNING - Sleep for 4.966041 seconds and try again... (tryings = 219, bot id = 8541102393)
+2026-01-31 22:30:56,907 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:30:56,908 - aiogram.dispatcher - WARNING - Sleep for 4.966278 seconds and try again... (tryings = 220, bot id = 8541102393)
+2026-01-31 22:31:31,882 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:31:31,882 - aiogram.dispatcher - WARNING - Sleep for 5.087115 seconds and try again... (tryings = 221, bot id = 8541102393)
+2026-01-31 22:32:06,977 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:32:06,978 - aiogram.dispatcher - WARNING - Sleep for 4.967580 seconds and try again... (tryings = 222, bot id = 8541102393)
+2026-01-31 22:32:41,953 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:32:41,954 - aiogram.dispatcher - WARNING - Sleep for 4.990166 seconds and try again... (tryings = 223, bot id = 8541102393)
+2026-01-31 22:33:16,953 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:33:16,953 - aiogram.dispatcher - WARNING - Sleep for 4.979558 seconds and try again... (tryings = 224, bot id = 8541102393)
+2026-01-31 22:33:51,940 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:33:51,941 - aiogram.dispatcher - WARNING - Sleep for 5.014788 seconds and try again... (tryings = 225, bot id = 8541102393)
+2026-01-31 22:34:26,963 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:34:26,964 - aiogram.dispatcher - WARNING - Sleep for 4.893224 seconds and try again... (tryings = 226, bot id = 8541102393)
+2026-01-31 22:35:01,864 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:35:01,864 - aiogram.dispatcher - WARNING - Sleep for 4.882118 seconds and try again... (tryings = 227, bot id = 8541102393)
+2026-01-31 22:35:36,751 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:35:36,752 - aiogram.dispatcher - WARNING - Sleep for 5.010664 seconds and try again... (tryings = 228, bot id = 8541102393)
+2026-01-31 22:36:11,769 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:36:11,769 - aiogram.dispatcher - WARNING - Sleep for 5.059358 seconds and try again... (tryings = 229, bot id = 8541102393)
+2026-01-31 22:36:46,833 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientConnectorDNSError: Cannot connect to host api.telegram.org:443 ssl:default [nodename nor servname provided, or not known]
+2026-01-31 22:36:46,834 - aiogram.dispatcher - WARNING - Sleep for 5.090687 seconds and try again... (tryings = 230, bot id = 8541102393)
+2026-01-31 22:37:16,319 - aiogram.dispatcher - INFO - Connection established (tryings = 231, bot id = 8541102393)
+2026-01-31 22:38:15,326 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ClientOSError: [Errno 60] Operation timed out
+2026-01-31 22:38:15,326 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8541102393)
+2026-01-31 22:38:26,790 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8541102393)
+2026-02-01 00:10:18,275 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - ServerDisconnectedError: Server disconnected
+2026-02-01 00:10:18,277 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8541102393)
+2026-02-01 00:10:29,740 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8541102393)
+2026-02-01 00:12:48,573 - aiogram.event - INFO - Update id=126318795 is handled. Duration 479 ms by bot id=8541102393
+2026-02-01 00:12:50,915 - aiogram.event - INFO - Update id=126318796 is handled. Duration 397 ms by bot id=8541102393
+2026-02-01 00:12:52,217 - aiogram.event - INFO - Update id=126318797 is handled. Duration 137 ms by bot id=8541102393
+2026-02-01 00:12:53,550 - aiogram.event - INFO - Update id=126318798 is handled. Duration 139 ms by bot id=8541102393
+2026-02-01 00:12:55,005 - aiogram.event - INFO - Update id=126318799 is handled. Duration 262 ms by bot id=8541102393
+2026-02-01 00:12:57,413 - aiogram.event - INFO - Update id=126318800 is handled. Duration 121 ms by bot id=8541102393
+2026-02-01 00:12:58,768 - aiogram.event - INFO - Update id=126318801 is handled. Duration 134 ms by bot id=8541102393
+2026-02-01 00:13:00,742 - aiogram.event - INFO - Update id=126318802 is handled. Duration 166 ms by bot id=8541102393
+2026-02-01 00:13:03,500 - aiogram.event - INFO - Update id=126318803 is handled. Duration 157 ms by bot id=8541102393
+2026-02-01 00:13:05,412 - aiogram.event - INFO - Update id=126318804 is not handled. Duration 2 ms by bot id=8541102393
+2026-02-01 00:13:28,821 - aiogram.event - INFO - Update id=126318805 is handled. Duration 149 ms by bot id=8541102393
+2026-02-01 00:13:32,202 - aiogram.event - INFO - Update id=126318806 is handled. Duration 132 ms by bot id=8541102393
+2026-02-01 00:13:33,393 - aiogram.event - INFO - Update id=126318807 is not handled. Duration 4 ms by bot id=8541102393
+2026-02-01 00:43:09,184 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-02-01 00:43:09,185 - aiogram.dispatcher - INFO - Polling stopped for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 00:43:09,185 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-01 00:43:14,016 - __main__ - INFO - Все пользователи с питомцами уже есть в базе
+2026-02-01 00:43:14,574 - aiogram.dispatcher - INFO - Start polling
+2026-02-01 00:43:14,666 - aiogram.dispatcher - INFO - Run polling for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 00:43:41,263 - aiogram.event - INFO - Update id=126318808 is handled. Duration 404 ms by bot id=8541102393
+2026-02-01 00:43:43,701 - aiogram.event - INFO - Update id=126318809 is handled. Duration 235 ms by bot id=8541102393
+2026-02-01 00:43:45,382 - aiogram.event - INFO - Update id=126318810 is handled. Duration 243 ms by bot id=8541102393
+2026-02-01 00:43:47,697 - __main__ - INFO - Количество линек питомца 1 обновлено: 2 -> 3
+2026-02-01 00:43:47,705 - __main__ - INFO - Записано molt для питомца 1 на 2026-02-01 00:43:45.141166
+2026-02-01 00:43:47,924 - __main__ - INFO - Пользователь 349017530 записал molt для питомца 1
+2026-02-01 00:43:48,092 - aiogram.event - INFO - Update id=126318811 is handled. Duration 402 ms by bot id=8541102393
+2026-02-01 00:43:49,564 - aiogram.event - INFO - Update id=126318812 is handled. Duration 124 ms by bot id=8541102393
+2026-02-01 00:43:52,462 - aiogram.event - INFO - Update id=126318813 is handled. Duration 164 ms by bot id=8541102393
+2026-02-01 00:43:53,710 - aiogram.event - INFO - Update id=126318814 is handled. Duration 270 ms by bot id=8541102393
+2026-02-01 00:43:54,761 - __main__ - INFO - Количество линек питомца 1 обновлено: 3 -> 4
+2026-02-01 00:43:54,768 - __main__ - INFO - Записано molt для питомца 1 на 2026-02-01 00:43:53.441919
+2026-02-01 00:43:54,902 - __main__ - INFO - Пользователь 349017530 записал molt для питомца 1
+2026-02-01 00:43:55,001 - aiogram.event - INFO - Update id=126318815 is handled. Duration 245 ms by bot id=8541102393
+2026-02-01 00:43:56,917 - aiogram.event - INFO - Update id=126318816 is handled. Duration 120 ms by bot id=8541102393
+2026-02-01 00:43:58,775 - aiogram.event - INFO - Update id=126318817 is handled. Duration 128 ms by bot id=8541102393
+2026-02-01 00:44:00,189 - aiogram.event - INFO - Update id=126318818 is handled. Duration 210 ms by bot id=8541102393
+2026-02-01 00:44:14,103 - aiogram.event - INFO - Update id=126318819 is handled. Duration 199 ms by bot id=8541102393
+2026-02-01 00:44:16,058 - aiogram.event - INFO - Update id=126318820 is handled. Duration 209 ms by bot id=8541102393
+2026-02-01 00:44:17,534 - aiogram.event - INFO - Update id=126318821 is handled. Duration 241 ms by bot id=8541102393
+2026-02-01 00:44:18,799 - __main__ - INFO - Записано cleaning для питомца 1 на 2026-02-01 00:44:17.294896
+2026-02-01 00:44:18,949 - __main__ - INFO - Пользователь 349017530 записал cleaning для питомца 1
+2026-02-01 00:44:19,046 - aiogram.event - INFO - Update id=126318822 is handled. Duration 261 ms by bot id=8541102393
+2026-02-01 00:44:35,445 - aiogram.event - INFO - Update id=126318823 is handled. Duration 136 ms by bot id=8541102393
+2026-02-01 00:44:44,455 - aiogram.event - INFO - Update id=126318824 is handled. Duration 129 ms by bot id=8541102393
+2026-02-01 00:44:48,059 - aiogram.event - INFO - Update id=126318825 is handled. Duration 261 ms by bot id=8541102393
+2026-02-01 00:44:50,287 - __main__ - INFO - Найдено пользователей: 2
+2026-02-01 00:44:50,288 - __main__ - INFO - Пользователь: ID=292979272, Имя=Valentina, Username=ValentinaIvanovaa
+2026-02-01 00:44:50,288 - __main__ - INFO - Пользователь: ID=349017530, Имя=Вадим, Username=Vodimiy95
+2026-02-01 00:44:50,411 - aiogram.event - INFO - Update id=126318826 is handled. Duration 248 ms by bot id=8541102393
+2026-02-01 00:44:52,228 - aiogram.event - INFO - Update id=126318827 is handled. Duration 127 ms by bot id=8541102393
+2026-02-01 00:45:04,118 - aiogram.event - INFO - Update id=126318828 is handled. Duration 141 ms by bot id=8541102393
+2026-02-01 00:55:58,726 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-02-01 00:55:58,727 - aiogram.dispatcher - INFO - Polling stopped for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 00:55:58,727 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-01 00:56:03,459 - __main__ - INFO - Все пользователи с питомцами уже есть в базе
+2026-02-01 00:56:04,014 - aiogram.dispatcher - INFO - Start polling
+2026-02-01 00:56:04,102 - aiogram.dispatcher - INFO - Run polling for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 00:56:30,249 - aiogram.event - INFO - Update id=126318829 is handled. Duration 390 ms by bot id=8541102393
+2026-02-01 00:56:32,692 - aiogram.event - INFO - Update id=126318830 is handled. Duration 131 ms by bot id=8541102393
+2026-02-01 00:56:35,227 - aiogram.event - INFO - Update id=126318831 is handled. Duration 136 ms by bot id=8541102393
+2026-02-01 00:56:36,613 - aiogram.event - INFO - Update id=126318832 is handled. Duration 293 ms by bot id=8541102393
+2026-02-01 00:56:37,954 - __main__ - INFO - Количество линек питомца 1 обновлено: 4 -> 5
+2026-02-01 00:56:37,960 - __main__ - INFO - Записано molt для питомца 1 на 2026-02-01 00:56:36.321332
+2026-02-01 00:56:38,076 - __main__ - INFO - Пользователь 349017530 записал molt для питомца 1
+2026-02-01 00:56:38,178 - aiogram.event - INFO - Update id=126318833 is handled. Duration 230 ms by bot id=8541102393
+2026-02-01 00:56:40,542 - aiogram.event - INFO - Update id=126318834 is handled. Duration 126 ms by bot id=8541102393
+2026-02-01 00:56:41,741 - aiogram.event - INFO - Update id=126318835 is handled. Duration 208 ms by bot id=8541102393
+2026-02-01 00:56:43,008 - aiogram.event - INFO - Update id=126318836 is handled. Duration 223 ms by bot id=8541102393
+2026-02-01 00:56:44,500 - aiogram.event - INFO - Update id=126318837 is handled. Duration 193 ms by bot id=8541102393
+2026-02-01 00:56:46,766 - aiogram.event - INFO - Update id=126318838 is handled. Duration 133 ms by bot id=8541102393
+2026-02-01 00:56:54,256 - aiogram.event - INFO - Update id=126318839 is handled. Duration 115 ms by bot id=8541102393
+2026-02-01 00:56:58,470 - aiogram.event - INFO - Update id=126318840 is handled. Duration 119 ms by bot id=8541102393
+2026-02-01 00:57:05,634 - aiogram.event - INFO - Update id=126318841 is handled. Duration 138 ms by bot id=8541102393
+2026-02-01 00:57:08,362 - aiogram.event - INFO - Update id=126318842 is handled. Duration 196 ms by bot id=8541102393
+2026-02-01 00:57:10,229 - aiogram.event - INFO - Update id=126318843 is handled. Duration 126 ms by bot id=8541102393
+2026-02-01 00:57:11,658 - aiogram.event - INFO - Update id=126318844 is handled. Duration 225 ms by bot id=8541102393
+2026-02-01 00:57:13,196 - aiogram.event - INFO - Update id=126318845 is handled. Duration 218 ms by bot id=8541102393
+2026-02-01 00:57:14,613 - __main__ - INFO - Количество линек питомца 3 обновлено: 3 -> 4
+2026-02-01 00:57:14,620 - __main__ - INFO - Записано molt для питомца 3 на 2026-02-01 00:57:12.979762
+2026-02-01 00:57:14,731 - __main__ - INFO - Пользователь 349017530 записал molt для питомца 3
+2026-02-01 00:57:14,832 - aiogram.event - INFO - Update id=126318846 is handled. Duration 223 ms by bot id=8541102393
+2026-02-01 00:57:21,097 - aiogram.event - INFO - Update id=126318847 is handled. Duration 131 ms by bot id=8541102393
+2026-02-01 00:57:22,822 - aiogram.event - INFO - Update id=126318848 is handled. Duration 124 ms by bot id=8541102393
+2026-02-01 12:43:07,565 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-02-01 12:43:07,569 - aiogram.dispatcher - INFO - Polling stopped for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 12:43:07,569 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-01 12:43:13,414 - __main__ - INFO - Все пользователи с питомцами уже есть в базе
+2026-02-01 12:43:13,417 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-01 12:43:13,417 - __main__ - INFO - ⏰ Планировщик напоминаний запущен
+2026-02-01 12:43:13,418 - apscheduler.scheduler - INFO - Added job "check_and_send_reminders" to job store "default"
+2026-02-01 12:43:13,418 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-01 12:43:13,418 - __main__ - INFO - 🔔 Запуск проверки напоминаний...
+2026-02-01 12:43:13,419 - __main__ - ERROR - 🔔 Критическая ошибка в системе напоминаний: type object 'Pet' has no attribute 'reminders_enabled'
+2026-02-01 12:43:13,965 - aiogram.dispatcher - INFO - Start polling
+2026-02-01 12:43:14,053 - aiogram.dispatcher - INFO - Run polling for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 12:43:29,936 - aiogram.event - INFO - Update id=126318849 is not handled. Duration 22 ms by bot id=8541102393
+2026-02-01 12:43:29,936 - aiogram.event - ERROR - Cause exception while process update id=126318849 by bot id=8541102393
+AttributeError: 'Pet' object has no attribute 'reminders_enabled'
+Traceback (most recent call last):
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadim/PycharmProjects/ToxinessBot/bot_test.py", line 1980, in show_pets
+    if pet.reminders_enabled:
+AttributeError: 'Pet' object has no attribute 'reminders_enabled'
+2026-02-01 12:43:39,840 - aiogram.event - INFO - Update id=126318850 is handled. Duration 398 ms by bot id=8541102393
+2026-02-01 12:43:41,577 - aiogram.event - INFO - Update id=126318851 is handled. Duration 124 ms by bot id=8541102393
+2026-02-01 12:43:42,800 - aiogram.event - INFO - Update id=126318852 is handled. Duration 131 ms by bot id=8541102393
+2026-02-01 12:43:43,904 - aiogram.event - INFO - Update id=126318853 is not handled. Duration 11 ms by bot id=8541102393
+2026-02-01 12:43:43,904 - aiogram.event - ERROR - Cause exception while process update id=126318853 by bot id=8541102393
+AttributeError: 'Pet' object has no attribute 'reminders_enabled'
+Traceback (most recent call last):
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadim/PycharmProjects/ToxinessBot/bot_test.py", line 1980, in show_pets
+    if pet.reminders_enabled:
+AttributeError: 'Pet' object has no attribute 'reminders_enabled'
+2026-02-01 12:43:50,103 - aiogram.event - INFO - Update id=126318854 is handled. Duration 161 ms by bot id=8541102393
+2026-02-01 12:43:53,196 - aiogram.event - INFO - Update id=126318855 is handled. Duration 124 ms by bot id=8541102393
+2026-02-01 12:44:00,623 - aiogram.event - INFO - Update id=126318856 is handled. Duration 292 ms by bot id=8541102393
+2026-02-01 12:44:04,596 - aiogram.event - INFO - Update id=126318857 is handled. Duration 255 ms by bot id=8541102393
+2026-02-01 12:44:05,984 - aiogram.event - INFO - Update id=126318858 is not handled. Duration 10 ms by bot id=8541102393
+2026-02-01 12:44:05,985 - aiogram.event - ERROR - Cause exception while process update id=126318858 by bot id=8541102393
+AttributeError: 'Pet' object has no attribute 'reminders_enabled'
+Traceback (most recent call last):
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadim/PycharmProjects/ToxinessBot/bot_test.py", line 1396, in process_pet_for_reminder
+    status = "✅ ВКЛЮЧЕНЫ" if pet.reminders_enabled else "❌ ВЫКЛЮЧЕНЫ"
+AttributeError: 'Pet' object has no attribute 'reminders_enabled'
+2026-02-01 12:44:07,303 - aiogram.event - INFO - Update id=126318859 is not handled. Duration 7 ms by bot id=8541102393
+2026-02-01 12:44:13,218 - aiogram.event - INFO - Update id=126318860 is handled. Duration 119 ms by bot id=8541102393
+2026-02-01 12:44:14,613 - aiogram.event - INFO - Update id=126318861 is handled. Duration 124 ms by bot id=8541102393
+2026-02-01 12:44:20,365 - aiogram.event - INFO - Update id=126318862 is handled. Duration 132 ms by bot id=8541102393
+2026-02-01 12:44:22,175 - aiogram.event - INFO - Update id=126318863 is handled. Duration 120 ms by bot id=8541102393
+2026-02-01 12:44:23,774 - __main__ - ERROR - Ошибка добавления питомца: 'reminders_enabled' is an invalid keyword argument for Pet
+2026-02-01 12:44:23,906 - aiogram.event - INFO - Update id=126318864 is handled. Duration 135 ms by bot id=8541102393
+2026-02-01 12:44:25,414 - __main__ - ERROR - Ошибка добавления питомца: 'reminders_enabled' is an invalid keyword argument for Pet
+2026-02-01 12:44:25,537 - aiogram.event - INFO - Update id=126318865 is handled. Duration 126 ms by bot id=8541102393
+2026-02-01 12:44:28,912 - __main__ - ERROR - Ошибка добавления питомца: 'reminders_enabled' is an invalid keyword argument for Pet
+2026-02-01 12:44:29,102 - aiogram.event - INFO - Update id=126318866 is handled. Duration 192 ms by bot id=8541102393
+2026-02-01 12:44:30,476 - aiogram.event - INFO - Update id=126318867 is handled. Duration 209 ms by bot id=8541102393
+2026-02-01 12:44:32,529 - aiogram.event - INFO - Update id=126318868 is handled. Duration 132 ms by bot id=8541102393
+2026-02-01 12:44:37,281 - aiogram.event - INFO - Update id=126318869 is handled. Duration 138 ms by bot id=8541102393
+2026-02-01 12:44:39,627 - __main__ - ERROR - Ошибка добавления питомца: 'reminders_enabled' is an invalid keyword argument for Pet
+2026-02-01 12:44:39,932 - aiogram.event - INFO - Update id=126318870 is handled. Duration 308 ms by bot id=8541102393
+2026-02-01 12:46:52,554 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-02-01 12:46:52,555 - aiogram.dispatcher - INFO - Polling stopped for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 12:46:52,555 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-01 12:46:52,807 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2026-02-01 12:46:57,652 - __main__ - INFO - Все пользователи с питомцами уже есть в базе
+2026-02-01 12:46:57,654 - apscheduler.scheduler - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-02-01 12:46:57,654 - __main__ - INFO - ⏰ Планировщик напоминаний запущен
+2026-02-01 12:46:57,655 - apscheduler.scheduler - INFO - Added job "check_and_send_reminders" to job store "default"
+2026-02-01 12:46:57,655 - apscheduler.scheduler - INFO - Scheduler started
+2026-02-01 12:46:57,655 - __main__ - INFO - 🔔 Запуск проверки напоминаний...
+2026-02-01 12:46:57,656 - __main__ - ERROR - 🔔 Критическая ошибка в системе напоминаний: type object 'Pet' has no attribute 'reminders_enabled'
+2026-02-01 12:46:58,227 - aiogram.dispatcher - INFO - Start polling
+2026-02-01 12:46:58,322 - aiogram.dispatcher - INFO - Run polling for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 12:47:06,579 - aiogram.event - INFO - Update id=126318871 is not handled. Duration 14 ms by bot id=8541102393
+2026-02-01 12:47:06,579 - aiogram.event - ERROR - Cause exception while process update id=126318871 by bot id=8541102393
+AttributeError: 'Pet' object has no attribute 'reminders_enabled'
+Traceback (most recent call last):
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadim/PycharmProjects/ToxinessBot/bot_test.py", line 1980, in show_pets
+    if pet.reminders_enabled:
+AttributeError: 'Pet' object has no attribute 'reminders_enabled'
+2026-02-01 12:47:25,345 - aiogram.event - INFO - Update id=126318872 is not handled. Duration 19 ms by bot id=8541102393
+2026-02-01 12:47:25,345 - aiogram.event - ERROR - Cause exception while process update id=126318872 by bot id=8541102393
+AttributeError: 'Pet' object has no attribute 'reminders_enabled'
+Traceback (most recent call last):
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadim/PycharmProjects/ToxinessBot/bot_test.py", line 1980, in show_pets
+    if pet.reminders_enabled:
+AttributeError: 'Pet' object has no attribute 'reminders_enabled'
+2026-02-01 12:48:05,178 - aiogram.event - INFO - Update id=126318873 is not handled. Duration 12 ms by bot id=8541102393
+2026-02-01 12:48:05,178 - aiogram.event - ERROR - Cause exception while process update id=126318873 by bot id=8541102393
+AttributeError: 'Pet' object has no attribute 'reminders_enabled'
+Traceback (most recent call last):
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/Users/vadim/PycharmProjects/ToxinessBot/.venv/lib/python3.9/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/Users/vadim/PycharmProjects/ToxinessBot/bot_test.py", line 1980, in show_pets
+    if pet.reminders_enabled:
+AttributeError: 'Pet' object has no attribute 'reminders_enabled'
+2026-02-01 12:48:07,193 - aiogram.event - INFO - Update id=126318874 is handled. Duration 433 ms by bot id=8541102393
+2026-02-01 12:48:09,893 - aiogram.event - INFO - Update id=126318875 is handled. Duration 128 ms by bot id=8541102393
+2026-02-01 12:48:13,534 - aiogram.event - INFO - Update id=126318876 is handled. Duration 120 ms by bot id=8541102393
+2026-02-01 12:48:14,746 - __main__ - ERROR - Ошибка добавления питомца: 'reminders_enabled' is an invalid keyword argument for Pet
+2026-02-01 12:48:14,883 - aiogram.event - INFO - Update id=126318877 is handled. Duration 140 ms by bot id=8541102393
+2026-02-01 12:48:38,734 - __main__ - ERROR - Ошибка добавления питомца: 'reminders_enabled' is an invalid keyword argument for Pet
+2026-02-01 12:48:38,961 - aiogram.event - INFO - Update id=126318878 is handled. Duration 252 ms by bot id=8541102393
+2026-02-01 12:48:40,865 - __main__ - ERROR - Ошибка добавления питомца: 'reminders_enabled' is an invalid keyword argument for Pet
+2026-02-01 12:48:40,985 - aiogram.event - INFO - Update id=126318879 is handled. Duration 122 ms by bot id=8541102393
+2026-02-01 12:48:58,469 - aiogram.event - INFO - Update id=126318880 is handled. Duration 134 ms by bot id=8541102393
+2026-02-01 12:49:00,968 - aiogram.event - INFO - Update id=126318881 is handled. Duration 137 ms by bot id=8541102393
+2026-02-01 12:49:03,712 - aiogram.event - INFO - Update id=126318882 is handled. Duration 243 ms by bot id=8541102393
+2026-02-01 12:49:05,109 - aiogram.event - INFO - Update id=126318883 is handled. Duration 136 ms by bot id=8541102393
+2026-02-01 12:49:06,805 - __main__ - ERROR - Ошибка добавления питомца: 'reminders_enabled' is an invalid keyword argument for Pet
+2026-02-01 12:49:07,007 - aiogram.event - INFO - Update id=126318884 is handled. Duration 204 ms by bot id=8541102393
+2026-02-01 12:49:59,945 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-02-01 12:49:59,948 - aiogram.dispatcher - INFO - Polling stopped for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 12:49:59,948 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-01 12:50:00,202 - apscheduler.scheduler - INFO - Scheduler has been shut down
+2026-02-01 12:50:04,828 - __main__ - INFO - Все пользователи с питомцами уже есть в базе
+2026-02-01 12:50:05,282 - aiogram.dispatcher - INFO - Start polling
+2026-02-01 12:50:05,374 - aiogram.dispatcher - INFO - Run polling for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 12:50:16,207 - aiogram.event - INFO - Update id=126318885 is handled. Duration 444 ms by bot id=8541102393
+2026-02-01 12:50:18,922 - aiogram.event - INFO - Update id=126318886 is handled. Duration 125 ms by bot id=8541102393
+2026-02-01 12:50:20,563 - aiogram.event - INFO - Update id=126318887 is handled. Duration 131 ms by bot id=8541102393
+2026-02-01 12:50:21,334 - aiogram.event - INFO - Update id=126318888 is handled. Duration 132 ms by bot id=8541102393
+2026-02-01 12:50:23,168 - aiogram.event - INFO - Update id=126318889 is handled. Duration 154 ms by bot id=8541102393
+2026-02-01 12:50:28,198 - aiogram.event - INFO - Update id=126318890 is handled. Duration 136 ms by bot id=8541102393
+2026-02-01 12:50:29,526 - aiogram.event - INFO - Update id=126318891 is handled. Duration 233 ms by bot id=8541102393
+2026-02-01 12:50:31,869 - aiogram.event - INFO - Update id=126318892 is handled. Duration 233 ms by bot id=8541102393
+2026-02-01 12:50:33,165 - __main__ - INFO - Количество линек питомца 1 обновлено: 5 -> 6
+2026-02-01 12:50:33,170 - __main__ - INFO - Записано molt для питомца 1 на 2026-02-01 12:50:31.637615
+2026-02-01 12:50:33,292 - __main__ - INFO - Пользователь 349017530 записал molt для питомца 1
+2026-02-01 12:50:33,409 - aiogram.event - INFO - Update id=126318893 is handled. Duration 249 ms by bot id=8541102393
+2026-02-01 12:50:37,097 - aiogram.event - INFO - Update id=126318894 is handled. Duration 136 ms by bot id=8541102393
+2026-02-01 12:50:38,098 - aiogram.event - INFO - Update id=126318895 is handled. Duration 130 ms by bot id=8541102393
+2026-02-01 12:50:39,313 - aiogram.event - INFO - Update id=126318896 is handled. Duration 124 ms by bot id=8541102393
+2026-02-01 12:50:42,819 - aiogram.event - INFO - Update id=126318897 is handled. Duration 146 ms by bot id=8541102393
+2026-02-01 12:50:44,127 - aiogram.event - INFO - Update id=126318898 is handled. Duration 133 ms by bot id=8541102393
+2026-02-01 12:50:45,174 - aiogram.event - INFO - Update id=126318899 is handled. Duration 134 ms by bot id=8541102393
+2026-02-01 12:50:47,157 - aiogram.event - INFO - Update id=126318900 is handled. Duration 236 ms by bot id=8541102393
+2026-02-01 12:50:48,837 - aiogram.event - INFO - Update id=126318901 is not handled. Duration 4 ms by bot id=8541102393
+2026-02-01 12:50:50,821 - aiogram.event - INFO - Update id=126318902 is not handled. Duration 2 ms by bot id=8541102393
+2026-02-01 12:50:52,561 - aiogram.event - INFO - Update id=126318903 is not handled. Duration 3 ms by bot id=8541102393
+2026-02-01 12:50:53,581 - aiogram.event - INFO - Update id=126318904 is not handled. Duration 3 ms by bot id=8541102393
+2026-02-01 12:50:55,071 - aiogram.event - INFO - Update id=126318905 is handled. Duration 193 ms by bot id=8541102393
+2026-02-01 12:50:56,746 - aiogram.event - INFO - Update id=126318906 is not handled. Duration 1 ms by bot id=8541102393
+2026-02-01 13:11:02,968 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-02-01 13:11:02,970 - aiogram.dispatcher - INFO - Polling stopped for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 13:11:02,970 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-01 13:11:10,816 - __main__ - INFO - Все пользователи с питомцами уже есть в базе
+2026-02-01 13:11:11,400 - aiogram.dispatcher - INFO - Start polling
+2026-02-01 13:11:11,495 - aiogram.dispatcher - INFO - Run polling for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 13:11:31,237 - aiogram.event - INFO - Update id=126318907 is handled. Duration 613 ms by bot id=8541102393
+2026-02-01 13:11:33,267 - aiogram.event - INFO - Update id=126318908 is handled. Duration 136 ms by bot id=8541102393
+2026-02-01 13:11:34,508 - aiogram.event - INFO - Update id=126318909 is handled. Duration 282 ms by bot id=8541102393
+2026-02-01 13:11:36,939 - __main__ - INFO - Записано feeding для питомца 4 на 2026-02-01 13:11:34.226699
+2026-02-01 13:11:37,063 - __main__ - INFO - Пользователь 349017530 записал feeding для питомца 4
+2026-02-01 13:11:37,181 - aiogram.event - INFO - Update id=126318910 is handled. Duration 253 ms by bot id=8541102393
+2026-02-01 13:11:44,982 - aiogram.event - INFO - Update id=126318911 is handled. Duration 298 ms by bot id=8541102393
+2026-02-01 13:11:46,161 - aiogram.event - INFO - Update id=126318912 is handled. Duration 134 ms by bot id=8541102393
+2026-02-01 13:11:47,143 - aiogram.event - INFO - Update id=126318913 is handled. Duration 121 ms by bot id=8541102393
+2026-02-01 13:11:48,195 - aiogram.event - INFO - Update id=126318914 is handled. Duration 130 ms by bot id=8541102393
+2026-02-01 13:11:50,588 - aiogram.event - INFO - Update id=126318915 is handled. Duration 131 ms by bot id=8541102393
+2026-02-01 13:11:53,145 - aiogram.event - INFO - Update id=126318916 is handled. Duration 145 ms by bot id=8541102393
+2026-02-01 13:11:57,667 - aiogram.event - INFO - Update id=126318917 is handled. Duration 152 ms by bot id=8541102393
+2026-02-01 14:45:42,092 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2026-02-01 14:45:42,093 - aiogram.dispatcher - INFO - Polling stopped for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 14:45:42,094 - aiogram.dispatcher - INFO - Polling stopped
+2026-02-01 14:45:58,071 - __main__ - INFO - Все пользователи с питомцами уже есть в базе
+2026-02-01 14:45:58,646 - aiogram.dispatcher - INFO - Start polling
+2026-02-01 14:45:58,788 - aiogram.dispatcher - INFO - Run polling for bot @Toxihelperbot id=8541102393 - 'NewToxBot'
+2026-02-01 14:46:30,078 - aiogram.event - INFO - Update id=126318918 is handled. Duration 573 ms by bot id=8541102393
+2026-02-01 14:46:33,359 - aiogram.event - INFO - Update id=126318919 is handled. Duration 156 ms by bot id=8541102393
+2026-02-01 14:46:35,228 - aiogram.event - INFO - Update id=126318920 is handled. Duration 292 ms by bot id=8541102393
+2026-02-01 15:44:16,053 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-02-01 15:44:16,054 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8541102393)
+2026-02-01 15:44:17,429 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8541102393)
+2026-02-01 15:44:17,446 - __main__ - INFO - Пользователь 368069058 добавлен в базу данных
+2026-02-01 15:44:17,849 - aiogram.event - INFO - Update id=126318921 is handled. Duration 419 ms by bot id=8541102393
+2026-02-01 15:44:17,884 - aiogram.event - INFO - Update id=126318922 is handled. Duration 453 ms by bot id=8541102393
+2026-02-01 15:45:50,317 - aiogram.event - INFO - Update id=126318923 is handled. Duration 141 ms by bot id=8541102393
+2026-02-01 15:48:35,691 - aiogram.dispatcher - ERROR - Failed to fetch updates - TelegramNetworkError: HTTP Client says - Request timeout error
+2026-02-01 15:48:35,692 - aiogram.dispatcher - WARNING - Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8541102393)
+2026-02-01 15:48:47,159 - aiogram.dispatcher - INFO - Connection established (tryings = 1, bot id = 8541102393)
